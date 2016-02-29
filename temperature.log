@@ -1,0 +1,5 @@
+﻿  temperature.cpp
+c:\users\giuseppe ferrara\desktop\esami\traccia antonino\temperature\dichiarazioni.h(27): error C2146: errore di sintassi: ';' mancante prima dell'identificatore 'kelvin'
+c:\users\giuseppe ferrara\desktop\esami\traccia antonino\temperature\dichiarazioni.h(27): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+c:\users\giuseppe ferrara\desktop\esami\traccia antonino\temperature\temperature.cpp(10): error C2664: 'void input(osservazione)': impossibile convertire l'argomento 1 da 'osservazione [3]' a 'osservazione'
+  c:\users\giuseppe ferrara\desktop\esami\traccia antonino\temperature\temperature.cpp(10): note: Nessun costruttore ha potuto accettare il tipo di origine o la risoluzione dell'overload del costruttore è risultata ambigua
